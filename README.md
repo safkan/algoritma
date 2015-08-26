@@ -1,0 +1,2 @@
+# algoritma
+Algoritma dersindeki kodlar
