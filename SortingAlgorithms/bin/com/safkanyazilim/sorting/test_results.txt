@@ -1,0 +1,145 @@
+Insertion sort:
+
+Time elapsed( 10 ): 0.002
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.0
+Time elapsed( 160 ): 0.001
+Time elapsed( 320 ): 0.001
+Time elapsed( 640 ): 0.003
+Time elapsed( 1280 ): 0.006
+Time elapsed( 2560 ): 0.014
+Time elapsed( 5120 ): 0.053
+Time elapsed( 10240 ): 0.051
+Time elapsed( 20480 ): 0.206
+Time elapsed( 40960 ): 0.553
+Time elapsed( 81920 ): 2.208
+Time elapsed( 163840 ): 8.959
+Time elapsed( 327680 ): 28.629
+Time elapsed( 655360 ): 148.325
+-- Threw in the towel --
+
+Merge Sort:
+
+Time elapsed( 10 ): 0.001
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.0
+Time elapsed( 160 ): 0.001
+Time elapsed( 320 ): 0.001
+Time elapsed( 640 ): 0.0
+Time elapsed( 1280 ): 0.001
+Time elapsed( 2560 ): 0.002
+Time elapsed( 5120 ): 0.005
+Time elapsed( 10240 ): 0.024
+Time elapsed( 20480 ): 0.011
+Time elapsed( 40960 ): 0.021
+Time elapsed( 81920 ): 0.057
+Time elapsed( 163840 ): 0.115
+Time elapsed( 327680 ): 0.134
+Time elapsed( 655360 ): 0.29
+Time elapsed( 1310720 ): 0.611
+Time elapsed( 2621440 ): 1.23
+Time elapsed( 5242880 ): 2.258
+Time elapsed( 10485760 ): 4.151
+Time elapsed( 20971520 ): 8.385
+Time elapsed( 41943040 ): 15.524
+Time elapsed( 83886080 ): 22.567
+
+Quick Sort:
+
+Time elapsed( 10 ): 0.001
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.0
+Time elapsed( 160 ): 0.0
+Time elapsed( 320 ): 0.0
+Time elapsed( 640 ): 0.001
+Time elapsed( 1280 ): 0.0
+Time elapsed( 2560 ): 0.001
+Time elapsed( 5120 ): 0.001
+Time elapsed( 10240 ): 0.003
+Time elapsed( 20480 ): 0.002
+Time elapsed( 40960 ): 0.004
+Time elapsed( 81920 ): 0.009
+Time elapsed( 163840 ): 0.017
+Time elapsed( 327680 ): 0.036
+Time elapsed( 655360 ): 0.074
+Time elapsed( 1310720 ): 0.159
+Time elapsed( 2621440 ): 0.331
+Time elapsed( 5242880 ): 0.653
+Time elapsed( 10485760 ): 1.391
+Time elapsed( 20971520 ): 2.991
+Time elapsed( 41943040 ): 5.781
+Time elapsed( 83886080 ): 12.205
+
+Quick Sort on Sorted Array:
+
+Time elapsed( 10 ): 0.001
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.0
+Time elapsed( 160 ): 0.001
+Time elapsed( 320 ): 0.0
+Time elapsed( 640 ): 0.001
+Time elapsed( 1280 ): 0.009
+Time elapsed( 2560 ): 0.005
+Time elapsed( 5120 ): 0.025
+Time elapsed( 10240 ): 0.088
+Time elapsed( 20480 ): 0.334
+Exception in thread "main" java.lang.StackOverflowError
+	at com.safkanyazilim.sorting.QuickSort.quickSort(QuickSort.java:17)
+
+Heapsort:
+
+Time elapsed( 10 ): 0.001
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.001
+Time elapsed( 160 ): 0.0
+Time elapsed( 320 ): 0.0
+Time elapsed( 640 ): 0.001
+Time elapsed( 1280 ): 0.001
+Time elapsed( 2560 ): 0.002
+Time elapsed( 5120 ): 0.003
+Time elapsed( 10240 ): 0.004
+Time elapsed( 20480 ): 0.007
+Time elapsed( 40960 ): 0.013
+Time elapsed( 81920 ): 0.033
+Time elapsed( 163840 ): 0.072
+Time elapsed( 327680 ): 0.137
+Time elapsed( 655360 ): 0.316
+Time elapsed( 1310720 ): 0.541
+Time elapsed( 2621440 ): 1.066
+Time elapsed( 5242880 ): 2.456
+Time elapsed( 10485760 ): 3.741
+Time elapsed( 20971520 ): 9.918
+Time elapsed( 41943040 ): 28.452
+Time elapsed( 83886080 ): 44.961
+
+Arrays.sort()
+
+Time elapsed( 10 ): 0.001
+Time elapsed( 20 ): 0.0
+Time elapsed( 40 ): 0.0
+Time elapsed( 80 ): 0.0
+Time elapsed( 160 ): 0.001
+Time elapsed( 320 ): 0.0
+Time elapsed( 640 ): 0.001
+Time elapsed( 1280 ): 0.001
+Time elapsed( 2560 ): 0.003
+Time elapsed( 5120 ): 0.001
+Time elapsed( 10240 ): 0.003
+Time elapsed( 20480 ): 0.009
+Time elapsed( 40960 ): 0.016
+Time elapsed( 81920 ): 0.03
+Time elapsed( 163840 ): 0.071
+Time elapsed( 327680 ): 0.158
+Time elapsed( 655360 ): 0.228
+Time elapsed( 1310720 ): 0.262
+Time elapsed( 2621440 ): 0.52
+Time elapsed( 5242880 ): 0.988
+Time elapsed( 10485760 ): 1.795
+Time elapsed( 20971520 ): 4.573
+Time elapsed( 41943040 ): 8.061
+Time elapsed( 83886080 ): 16.956
